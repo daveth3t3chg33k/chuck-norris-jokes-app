@@ -1,6 +1,6 @@
 # Chuck Norris Jokes App
 
-A fun and interactive React app that fetches and displays Chuck Norris jokes from the Chuck Norris API. The app includes features such as fetching random jokes, getting jokes by category, searching for jokes, dark/light mode, and smooth animations using Framer Motion.
+A fun and interactive React app that fetches and displays Chuck Norris jokes from the Chuck Norris API. The app includes features such as fetching random jokes, getting jokes by category, searching for jokes and smooth animations using Framer Motion.
 
 ## 🚀 Features
 
