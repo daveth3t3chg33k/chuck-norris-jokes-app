@@ -96,4 +96,5 @@ This project is open-source and available under the **MIT License**.
 For questions or feedback, reach out:
 - **GitHub**: [dav3th3t3chg33k](https://github.com/dav3th3t3chg33k)
 - **Email**:kam1rahdav1d@gmail.com
+- **Live Demo**: https://chuck-test-2rqjw7bmx-david-kamirah-s-projects.vercel.app/
 
