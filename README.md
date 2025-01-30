@@ -53,7 +53,6 @@ npm run build
 ```sh
 npm run deploy
 ```
-Your app will be live at: `https://dav3th3t3chg33k.github.io/chuck-norris-jokes/`
 
 ### Deploying to Vercel (Recommended)
 1. **Install Vercel CLI**
