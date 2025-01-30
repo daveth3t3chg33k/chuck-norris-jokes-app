@@ -23,7 +23,7 @@ A fun and interactive React app that fetches and displays Chuck Norris jokes fro
 
 1. **Clone the repository**
 ```sh
-git clone https://github.com/dav3th3t3chg33k/chuck-test.git
+git clone https://github.com/daveth3t3chg33k/chuck-test.git
 ```
 
 2. **Navigate to the project folder**
@@ -93,7 +93,8 @@ This project is open-source and available under the **MIT License**.
 ## 📞 Contact
 
 For questions or feedback, reach out:
-- **GitHub**: [dav3th3t3chg33k](https://github.com/dav3th3t3chg33k)
+- **GitHub**: [daveth3t3chg33k](https://github.com/dav3th3t3chg33k)
 - **Email**:kam1rahdav1d@gmail.com
 - **Live Demo**: https://chuck-test-2rqjw7bmx-david-kamirah-s-projects.vercel.app/
 
+s
